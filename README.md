@@ -43,11 +43,13 @@ ________________________________________________________________________________
 
 ## 📈 My Stats
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil46&theme=gruvbox)
 
  <table>
   <tr>
     <td>
+
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil46&theme=gruvbox)
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarveshPatil46&show_icons=true&theme=gruvbox)
    </td>
