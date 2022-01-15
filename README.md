@@ -41,7 +41,9 @@
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-## 📈 Stats
+## 📈 My Stats
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil46)
 
  <table>
   <tr>
@@ -58,16 +60,3 @@ ________________________________________________________________________________
   </table>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&&theme=gruvbox)
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://SarveshPatil46.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SarveshPatil46&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil46&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://SarveshPatil46.dev)
