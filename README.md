@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mukul Kolpe 👋</h1>
-<h3 align="center">I’m a sophomore year student from University of Mumbai.</h3>
+<h1 align="center">Hi, I'm Sarvesh Patil 👋</h1>
+<h3 align="center">IT Student | Mumbai University</h3>
 
 - 🔭 I’m currently working on **React.js**
 
