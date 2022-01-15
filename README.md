@@ -47,17 +47,17 @@ ________________________________________________________________________________
   <tr>
     <td>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarveshPatil46&show_icons=true&theme=dracula)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarveshPatil46&show_icons=true&theme=gruvbox)
    </td>
 
    <td>  
 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil46&theme=dracula)
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil46&theme=gruvbox)
      </td>
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&&theme=gruvbox)
 
 ## My Statistics
 
