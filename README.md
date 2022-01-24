@@ -63,4 +63,4 @@ ________________________________________________________________________________
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&&theme=gruvbox)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&&theme=gruvbox) -->
