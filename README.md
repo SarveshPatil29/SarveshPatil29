@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil46&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="SarveshPatil46" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **CSS, JavaScript, Flutter**
+- 🌱 I’m currently learning **JavaScript, Python**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java, Android, HTML**
+- 💬 Ask me about **Java, Android, Web**
 
 - 📫 You can also reach out to me at **sarvesh2902@gmail.com**
 
@@ -32,8 +32,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" alt="dart" width="40" height="40"/> </a>
 
 ### Other Tools and Technologies
 
