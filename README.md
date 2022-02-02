@@ -13,7 +13,7 @@
 
 - 📫 You can also reach out to me at **sarvesh2902@gmail.com**
 
-## Connect with me [🔗](https://linktr.ee/patilsarvesh)
+## Connect with me [🔗](https://sarveshpatil46.github.io/profile/)
 <p align="left">
 <a href="https://twitter.com/SarveshPatil_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshpatil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sarvesh-patil-a4567b21a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarveshpatil" height="30" width="40" /></a>
