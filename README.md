@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Patil</h1>
 <h3 align="center">IT Student | Web Developer</h3>
-<STYLE>A {text-decoration: none;} </STYLE>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil46&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="SarveshPatil46" /> </p>
 
