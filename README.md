@@ -31,10 +31,10 @@ ________________________________________________________________________________
 
 ## 📈 My Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarveshpatil46&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="sarveshpatil46" /></p>
+<p align="center"><img alt="Sarvesh Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil46&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshpatil46&show_icons=true&locale=en&theme=gruvbox" alt="sarveshpatil46" /></p>
+<p align="center">&nbsp;<img alt="Sarvesh Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil46&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshpatil46&theme=gruvbox" alt="sarveshpatil46" /></p>
+<p align="center"><img alt="Sarvesh Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SarveshPatil46&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&&theme=gruvbox)
+<img alt="Sarvesh Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
