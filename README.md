@@ -29,7 +29,7 @@
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-## 📈 My Stats
+## 📈 MY STATS
 
 <p align="center"><img alt="Sarvesh Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil46&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
