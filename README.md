@@ -31,10 +31,10 @@ ________________________________________________________________________________
 
 ## 📈 MY STATS
 
-<p align="center"><img alt="Sarvesh Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil46&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p align="center"><img alt="Sarvesh Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil29&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<p align="center">&nbsp;<img alt="Sarvesh Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil46&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
+<p align="center">&nbsp;<img alt="Sarvesh Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil29&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
 
-<p align="center"><img alt="Sarvesh Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SarveshPatil46&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p align="center"><img alt="Sarvesh Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SarveshPatil29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<img alt="Sarvesh Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarveshPatil46&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Sarvesh Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarveshPatil29&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
