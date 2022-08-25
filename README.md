@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Patil</h1>
-<h3 align="center">IT Student | Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil46&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="SarveshPatil29" /> </p>
 
 - 🔭 I’m currently working on **NextJS, MERNstack**
 
-- 🌱 I’m currently learning **NextJS, Flask**
+- 🌱 I’m currently learning **TypeScript, AWS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **ReactJS, NodeJS, Mongo, Python**
+- 💬 Ask me about **MERNStack, Python**
 
 - 📫 You can also reach out to me at **sarvesh2902@gmail.com**
 
