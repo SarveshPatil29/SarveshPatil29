@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **MERNStack, Python**
+- 💬 Ask me about **MERN Stack, Python, NextJS**
 
 - 📫 You can also reach out to me at **sarvesh2902@gmail.com**
 
