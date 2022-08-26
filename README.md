@@ -31,6 +31,9 @@ ________________________________________________________________________________
 
 ## 📈 MY STATS
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil29&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="SarveshPatil29" /></p>
+<p>(Changed Username)</p>
+
 <p align="center"><img alt="Sarvesh Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil29&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
 <p align="center">&nbsp;<img alt="Sarvesh Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil29&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
