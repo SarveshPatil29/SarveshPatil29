@@ -53,9 +53,9 @@
 <a href="https://auth.geeksforgeeks.org/user/sarvesh2902/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarvesh2902/profile" height="30" width="40" /></a>
 </p>
 
-___________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________
 
-## 📈 MY STATS
+### Badges
 
 <p align="center"<a href="https://github.com/SarveshPatil29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil29&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
@@ -64,3 +64,9 @@ ________________________________________________________________________________
 <p align="center"<a href="http://www.github.com/SarveshPatil29"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshPatil29&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
 <p align="center"<a href="http://www.github.com/SarveshPatil29"><img src="https://activity-graph.herokuapp.com/graph?username=SarveshPatil29&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/SarveshPatil29/portfolio" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarveshPatil29&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en" /></a><a href="https://github.com/SarveshPatil29/country-details-nextjs" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarveshPatil29&repo=country-details-nextjs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/SarveshPatil29/QuizIn" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarveshPatil29&repo=QuizIn&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en" /></a><a href="https://github.com/SarveshPatil29/CollegeManagementSystem" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarveshPatil29&repo=CollegeManagementSystem&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en" /></a></div>
