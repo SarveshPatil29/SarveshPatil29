@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sarvesh Patil</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Sarvesh Patil</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil29&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="SarveshPatil29" /> </p>
