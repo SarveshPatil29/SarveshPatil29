@@ -2,7 +2,7 @@
 , I'm Sarvesh Patil</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil29&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="SarveshPatil29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil29&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="SarveshPatil29" /> </p>
 
 - 🌍  I'm based in Mumbai
 
