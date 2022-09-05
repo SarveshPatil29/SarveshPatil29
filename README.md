@@ -19,7 +19,7 @@
 - ✉️ You can also reach out to me at **sarvesh2902@gmail.com**
 
 
-### Skills
+## Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -43,7 +43,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left">
 <a href="https://twitter.com/sarveshpatil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshpatil_" height="30" width="40" /></a>
@@ -54,9 +54,7 @@
 <a href="https://auth.geeksforgeeks.org/user/sarvesh2902/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarvesh2902/profile" height="30" width="40" /></a>
 </p>
 
-_______________________________________________________________________________________________________________________________________________________________________________
-
-### Badges
+## Badges
 
 <p align="center"<a href="https://github.com/SarveshPatil29" align="left"><img src="https://github-readme-stats-sarveshpatil29.vercel.app/api/top-langs/?username=SarveshPatil29&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
