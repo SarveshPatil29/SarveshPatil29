@@ -10,7 +10,7 @@
 
 - 🚀 I’m currently working on **Portfolio Generator, ProtoHubs.IO, SUDLife Insurance**
 
-- 🧠 I’m currently learning **TypeScript, AWS**
+- 🧠 I’m currently learning **ML and DS**
 
 - 🤝 I’m looking to collaborate on **Web Development Projects**
 
