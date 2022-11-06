@@ -8,7 +8,7 @@
 
 - 🖥️  See my portfolio at [https://sarveshpatil29.github.io/profile/](http://sarveshpatil29.github.io/profile/)
 
-- 🚀 I’m currently working on **Portfolio Generator, ProtoHubs.IO, SUDLife Insurance**
+- 🚀 I’m currently working on **Portfolio Generator, ProtoHubs.IO, SUD Life Insurance**
 
 - 🧠 I’m currently learning **ML and DS**
 
