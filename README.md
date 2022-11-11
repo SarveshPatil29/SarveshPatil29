@@ -10,7 +10,7 @@
 
 - 🚀 I’m currently working on **Portfolio Generator, ProtoHubs.IO, SUD Life Insurance**
 
-- 🧠 I’m currently learning **ML and DS**
+- 🧠 I’m currently learning **ML and DS, DSA**
 
 - 🤝 I’m looking to collaborate on **Web Development Projects**
 
