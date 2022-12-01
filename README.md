@@ -2,11 +2,11 @@
 , I'm Sarvesh Patil</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SarveshPatil29&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="SarveshPatil29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh2902&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="sarvesh2902" /> </p>
 
 - 🌍  I'm based in Mumbai
 
-- 🖥️  See my portfolio at [https://sarveshpatil29.github.io/profile/](http://sarveshpatil29.github.io/profile/)
+- 🖥️  See my portfolio at [https://sarvesh2902.github.io/profile/](http://sarvesh2902.github.io/profile/)
 
 - 🚀 I’m currently working on **Portfolio Generator, ProtoHubs.IO, SUD Life Insurance**
 
@@ -58,10 +58,10 @@
 
 [![@sarveshpatil29's Holopin board](https://holopin.me/sarveshpatil29)](https://holopin.io/@sarveshpatil29)
 
-<p align="center"<a href="https://github.com/SarveshPatil29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshPatil29&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+<p align="center"<a href="https://github.com/sarvesh2902" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh2902&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
-<p align="center"<a href="http://www.github.com/SarveshPatil29"><img src="https://github-readme-stats.vercel.app/api?username=SarveshPatil29&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="SarveshPatil29's GitHub stats" /></a></p>
+<p align="center"<a href="http://www.github.com/sarvesh2902"><img src="https://github-readme-stats.vercel.app/api?username=sarvesh2902&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="sarvesh2902's GitHub stats" /></a></p>
 
-<p align="center"<a href="http://www.github.com/SarveshPatil29"><img src="https://streak-stats.demolab.com/?user=SarveshPatil29&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+<p align="center"<a href="http://www.github.com/sarvesh2902"><img src="https://streak-stats.demolab.com/?user=sarvesh2902&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
-<p align="center"<a href="http://www.github.com/SarveshPatil29"><img src="https://activity-graph.herokuapp.com/graph?username=SarveshPatil29&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
+<p align="center"<a href="http://www.github.com/sarvesh2902"><img src="https://activity-graph.herokuapp.com/graph?username=sarvesh2902&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
