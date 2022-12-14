@@ -47,9 +47,9 @@
 ## Socials
 
 <p align="left">
-<a href="https://twitter.com/sarveshpatil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshpatil_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thesarveshpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesarveshpatil" height="30" width="40" /></a>
-<a href="https://fb.com/sarveshsamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarveshsamir" height="30" width="40" /></a>
+<a href="https://twitter.com/sarvesh_2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshpatil_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarvesh2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesarveshpatil" height="30" width="40" /></a>
+<a href="https://fb.com/sarvesh2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarveshsamir" height="30" width="40" /></a>
 <a href="https://instagram.com/patil__sarvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil__sarvesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarvesh2902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarvesh2902" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sarvesh2902/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarvesh2902/profile" height="30" width="40" /></a>
