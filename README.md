@@ -6,7 +6,7 @@
 
 - 🌍  I'm based in Mumbai
 
-- 🖥️  See my portfolio at [https://sarvesh2902.github.io/profile/](http://sarvesh2902.github.io/profile/)
+- 🖥️  See my portfolio at [https://sarvesh2902.github.io/](http://sarvesh2902.github.io/)
 
 - 🚀 I’m currently working on **Portfolio Generator, ProtoHubs.IO, SUD Life Insurance**
 
